@@ -1,0 +1,41 @@
+body{
+  font-family: arial;
+  font-size: 14px;
+  background-color: #b4b4b4;
+}
+#utama{
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 12%;
+}
+#judul{
+  padding: 15px;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  background-color: #38a9e3;
+  border-radius: 10px 10px 0 0;
+  border-bottom: 3px solid #01679b;
+}
+#inputan{
+  background-color: #495054;
+  padding: 20px;
+  border-radius: 0 0 10px 10px;
+}
+input{
+  padding: 10px;
+  border: 0;
+}
+.ig{
+  width: 240px;
+}
+.btn{
+  background-color: #38a9e3;
+  border-radius: 5px;
+  color: #fff;
+  width: 126px;
+}
+.btn:hover{
+  background-color: #198eca;
+  cursor: pointer;
+}
